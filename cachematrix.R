@@ -44,3 +44,4 @@ cacheSolve <- function(x, ...) {
 
 matrix1 <- makeCacheMatrix(matrix(c(1,2,3,4),nrow = 2,ncol = 2))
 cacheSolve(matrix1)
+cacheSolve(matrix1)
